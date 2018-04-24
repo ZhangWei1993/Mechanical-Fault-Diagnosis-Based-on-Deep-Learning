@@ -11,3 +11,4 @@ second, disorder_images.py and input_bear_data.py should be used to tansform you
 
 last, you may choose to run mnist_b.py or mnist_c.py for paper_1 or mnist_2d.py for paper_2.   
 
+如果大家对以上研究感兴趣，可以进一步参考我的这两篇论文：A New Deep Learning Model for Fault Diagnosis with Good Anti-Noise and Domain Adaptation Ability on Raw Vibration Signals与A deep convolutional neural network with new training methods for bearing fault diagnosis under noisy environment and different working load，更详细的请看我的硕士毕业论文：基于卷积神经网络的轴承故障诊断算法研究。若使用，请引用，谢谢。
